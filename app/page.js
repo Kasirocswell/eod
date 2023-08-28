@@ -50,32 +50,12 @@ export default function Home() {
                 alt="Picture of the book cover"
               />
             </div>
-            <div className="mx-2 text-center mt-4 mb-4 md:w-[500px] md:h-[800px] md:text-left md:text-lg">
+            <div className="mx-4 text-center mt-4 mb-4 text-2xl md:w-[500px] md:h-[800px] md:text-left md:text-4xl md:pt-[175px]">
               In a world teetering on the precipice of its own demise, the
               remnants of humanity are confronted with an unprecedented threat:
               a formidable invasion from beyond the stars. Cities crumble,
               societies shatter, and amidst the chaos, Malik, Zara, and a
               resilient group of survivors rise to mount a desperate resistance.
-              Yet, as they navigate the ruins of their civilization and engage
-              in fierce battles against the extraterrestrial invaders, they
-              stumble upon revelations that shake the very core of their
-              understanding. The Earth, with its diverse landscapes and rich
-              history, was never merely a sanctuary for human life. Hidden
-              beneath the layers of wars, politics, and human endeavors, lay a
-              profound secret: Earth was a meticulously designed training
-              ground, preparing humanity for a destiny far grander than they
-              could have ever imagined. As the boundaries between friend and foe
-              become increasingly indistinct, Malik, Zara, and their allies find
-              themselves ensnared in a vast cosmic play, where the rules are
-              constantly changing. Journey with them across interstellar
-              expanses, through battles that rage not just on land, but in the
-              very fabric of reality. Witness alliances forged in the heat of
-              combat, love blossoming amidst despair, and sacrifices made for
-              the greater good. At the heart of this epic tale lies a question
-              that has haunted humanity since its inception: What is our true
-              purpose? Dive deep into a narrative that intertwines war, love,
-              betrayal, and the indomitable spirit of humanity as they grapple
-              with their place in the universe and the price of ultimate power.
             </div>
           </div>
         </section>
