@@ -90,7 +90,7 @@ export default function Home() {
       >
         <section className="md:relative md:flex">
           <div className="md:flex md:flex-row md:mx-[200px] md:mt-8">
-            <div className="text-center mt-4 mb-4 md:h-[500px] md:w-[500px] md:text-3xl md:text-left">
+            <div className="font-bold text-center mt-4 mb-4 md:h-[500px] md:w-[500px] md:text-3xl md:text-left">
               Kasi Reeves, born amidst the vibrant culture of Japan and nurtured
               in the eclectic vibes of the Bay Area, is a dynamic force in the
               realms of sci-fi, video games, and anime. Drawing inspiration from
