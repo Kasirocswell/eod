@@ -16,7 +16,7 @@ export default function Home() {
         <section className="relative flex mt-[-25px]">
           <div className="content-container space-y-4 md:flex md:flex-row md:ml-[-100px] md:space-y-0">
             <div className="text-container md:pl-[150px] md:text-center md:mt-[150px]">
-              <div className="text-xl font-bold ml-[125px] md:text-6xl">
+              <div className="text-xl font-bold ml-[100px] md:text-6xl">
                 Echoes of Dominion
               </div>
               <div className="mt-2 text-center md:ml-[125px] md:text-xl">
