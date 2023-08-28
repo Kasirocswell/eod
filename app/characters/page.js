@@ -10,7 +10,7 @@ export default function Characters() {
   const characters = [
     {
       name: "Malik",
-      image: "/malik/malik1.png",
+      image: "/Malik/malik1.png",
       height: "6'2",
       weight: "180 lbs",
       age: 29,
@@ -20,7 +20,7 @@ export default function Characters() {
     },
     {
       name: "Zara",
-      image: "/zara/zara1.png",
+      image: "/Zara/zara1.png",
       height: "5'7",
       weight: "155 lbs",
       age: 27,
@@ -30,7 +30,7 @@ export default function Characters() {
     },
     {
       name: "Aisha",
-      image: "/aisha/aisha1.png",
+      image: "/Aisha/aisha1.png",
       height: "5'5",
       weight: "135 lbs",
       age: 25,
@@ -40,7 +40,7 @@ export default function Characters() {
     },
     {
       name: "Dr. Nia",
-      image: "/nia/nia1.png",
+      image: "/Nia/nia1.png",
       height: "5'9",
       weight: "160 lbs",
       age: 25,
@@ -50,7 +50,7 @@ export default function Characters() {
     },
     {
       name: "Diego",
-      image: "/diego/diego1.png",
+      image: "/Diego/diego1.png",
       height: "6'0",
       weight: "150 lbs",
       age: 25,
@@ -60,7 +60,7 @@ export default function Characters() {
     },
     {
       name: "Lena",
-      image: "/lena/lena1.png",
+      image: "/Lena/lena1.png",
       height: "5'10",
       weight: "170 lbs",
       age: 25,
@@ -70,7 +70,7 @@ export default function Characters() {
     },
     {
       name: "Captain Uri",
-      image: "/malik/malik1.png",
+      image: "/Malik/malik1.png",
       height: "6'1",
       weight: "180 lbs",
       age: 25,
@@ -80,7 +80,7 @@ export default function Characters() {
     },
     {
       name: "Commander Idris",
-      image: "/idris/idris1.png",
+      image: "/Idris/idris1.png",
       height: "6'1",
       weight: "180 lbs",
       age: 25,
@@ -90,7 +90,7 @@ export default function Characters() {
     },
     {
       name: "Nyx",
-      image: "/nyx/nyx1.png",
+      image: "/Nyx/nyx1.png",
       height: "6'1",
       weight: "180 lbs",
       age: 25,
@@ -100,7 +100,7 @@ export default function Characters() {
     },
     {
       name: "Sentinel",
-      image: "/sentinel/sentinel1.png",
+      image: "/Sentinel/sentinel1.png",
       height: "6'1",
       weight: "180 lbs",
       age: 25,
