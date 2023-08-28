@@ -122,7 +122,7 @@ export default function Characters() {
       >
         <Navbar />
         <section className="relative flex justify-center items-center h-full">
-          <div className="grid grid-cols-4 gap-4 bg-white bg-opacity-60 p-8 rounded-lg mt-[-250px]">
+          <div className="grid grid-cols-4 gap-4 bg-white bg-opacity-60 p-8 rounded-lg mt-[-200px]">
             {characters.map((character) => (
               <button
                 key={character.name}
