@@ -26,7 +26,7 @@ export default function Navbar() {
     <nav className="flex flex-row justify-between align-middle font-bold bg-opacity-0 pt-[-50px] ">
       <div className="flex flex-row items-center space-x-[100px]">
         <Image
-          src="/eod.png"
+          src="/eod.PNG"
           width={200}
           height={200}
           alt="Picture of the book cover"
