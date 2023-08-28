@@ -70,9 +70,9 @@ export default function Characters() {
     },
     {
       name: "Captain Uri",
-      image: "/Malik/malik1.png",
-      height: "6'1",
-      weight: "180 lbs",
+      image: "/Uri/uri1.png",
+      height: "5'6",
+      weight: "140 lbs",
       age: 25,
       hometown: "Loreville",
       skills: "Swordsmanship",
